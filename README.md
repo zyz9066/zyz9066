@@ -38,24 +38,24 @@ Transforming complex VFX production challenges into seamless, automated pipeline
 
 ### Nuke Remote Render Node
 
-Skills: Python, Houdini, Nuke
-Date: 2025-10-09
-Collaborators: Patrick Dawkes (Pipeline Archtect)
-Things learned: Python API, event callbacks and user interface design for render node.
-Accomplishments: facilitates Universal Scene Description rendering process between Houdini and Nuke by developing a render node for chainable renders on farm.
+* Skills: Python, Houdini, Nuke
+* Date: 2025-10-09
+* Collaborators: Patrick Dawkes (Pipeline Archtect)
+* Things learned: Python API, event callbacks and user interface design for render node.
+* Accomplishments: facilitates Universal Scene Description rendering process between Houdini and Nuke by developing a render node for chainable renders on farm.
 
 ### Universal Scene Description Asset Version Resolution LOP node
 
-Skills: C++, Python, Houdini
-Date: 2024-07-16
-Collaborators: Nemanja Stavric (Computer Graphics Supervisor)
-Things learned: Universal Scene Description composition arcs, Python API and user interface design for LOP node in Houdini.
-Accomplishments: enables the artists to be able to change the Universal Scene Description asset version in shot context by developing a LOP node in Houdini.
+* Skills: C++, Python, Houdini
+* Date: 2024-07-16
+* Collaborators: Nemanja Stavric (Computer Graphics Supervisor)
+* Things learned: Universal Scene Description composition arcs, Python API and user interface design for LOP node in Houdini.
+* Accomplishments: enables the artists to be able to change the Universal Scene Description asset version in shot context by developing a LOP node in Houdini.
 
 ### Maya scene callbacks management system
 
-Skills: Python, Maya
-Date: 2024-10-22
-Collaborators: Dan Raileanu (Assistant Technical Director)
-Things learned: event callbacks in Maya
-Accomplishments: designs an event callbacks system in Maya, which allows inheriting global Maya callbacks and registering customized Maya callbacks upon show request.
+* Skills: Python, Maya
+* Date: 2024-10-22
+* Collaborators: Dan Raileanu (Assistant Technical Director)
+* Things learned: event callbacks in Maya
+* Accomplishments: designs an event callbacks system in Maya, which allows inheriting global Maya callbacks and registering customized Maya callbacks upon show request.
